@@ -12,7 +12,7 @@ song_LGO = "";
 
  function setup()
  {
-     canvas = createCanvas(650, 500 );
+     canvas = createCanvas(550, 400 );
      canvas.center();
 
      video = createCapture(VIDEO);
